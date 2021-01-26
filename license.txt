@@ -1,0 +1,307 @@
+This text contains three licenses (License #1, License #2, and License #3). 
+License #1 applies to components of the Nordic Semiconductor SDK, except i) files including Dynastream copyright notices and ii) source files including BSD 3-clause license texts.
+License #1 applies to files containing Nordic Semiconductor copyright notices.
+License #2 applies only to files including Dynastream copyright notices. 
+All must be read and accepted before proceeding.
+Licnese #3 applies only to files containing Superlative Semiconductor copyright notices.
+
+License #1
+
+License Agreement
+Nordic Semiconductor ASA (“Nordic”) 
+Software Development Kit 
+
+
+You (“You” or “Licensee”) must carefully and thoroughly read this License Agreement (“Agreement”), and accept to adhere to this Agreement before downloading, installing and/or using any software or content in the Software Development Kit (“SDK”) provided herewith. 
+
+YOU ACCEPT THIS LICENSE AGREEMENT BY (A) CLICKING ACCEPT OR AGREE TO THIS LICENSE AGREEMENT, WHERE THIS OPTION IS MADE AVAILABLE TO YOU; OR (B) BY ACTUALLY USING THE SDK, IN THIS CASE YOU AGREE THAT THE USE OF THE SDK CONSTITUTES ACCEPTANCE OF THE LICENSING AGREEMENT FROM THAT POINT ONWARDS.
+
+IF YOU DO NOT AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT, THEN DO NOT DOWNLOAD, INSTALL/COMPLETE INSTALLATION OF, OR IN ANY OTHER WAY MAKE USE OF THE SDK OR RELATED CONTENT.
+
+
+1.	Grant of License 
+Subject to the terms in this Agreement Nordic grants Licensee a limited, non-exclusive, non-transferable, non-sub licensable, revocable license (“License”): (a) to use the SDK as a development platform solely in connection with a Nordic Integrated Circuit (“nRF IC”), (b) to modify any source code contained in the SDK solely as necessary to implement products developed by Licensee that incorporate an nRF IC (“Licensee Product”), and (c) to distribute the SDK solely as implemented in Licensee Product. Licensee shall not use the SDK for any purpose other than specifically authorized herein.
+
+2.	Title 
+As between the parties, Nordic retains full rights, title, and ownership of the SDK and any and all patents, copyrights, trade secrets, trade names, trademarks, and other intellectual property rights in and to the SDK. 
+
+3.	No Modifications or Reverse Engineering
+Licensee shall not, modify, reverse engineer, disassemble, decompile or otherwise attempt to discover the source code of any non-source code parts of the SDK including, but not limited to pre-compiled binaries and object code.
+
+4.	Distribution Restrictions
+Except as set forward in Section 1 above, the Licensee may not disclose or distribute any or all parts of the SDK to any third party. Licensee agrees to provide reasonable security precautions to prevent unauthorized access to or use of the SDK as proscribed herein. Licensee also agrees that use of and access to the SDK will be strictly limited to the employees and subcontractors of the Licensee necessary for the performance of development, verification and production tasks under this Agreement. The Licensee is responsible for making such employees and subcontractors agree on complying with the obligations concerning use and non-disclosure of the SDK.
+
+5.	No Other Rights 
+Licensee shall use the SDK only in compliance with this Agreement and shall refrain from using the SDK in any way that may be contrary to this Agreement.
+
+
+6.	Fees 
+Nordic grants the License to the Licensee free of charge provided that the Licensee undertakes the obligations in the Agreement and warrants to comply with the Agreement. 
+
+
+7.	DISCLAIMER OF WARRANTY 
+THE SDK IS PROVIDED “AS IS" WITHOUT WARRANTY OF ANY KIND EXPRESS OR IMPLIED AND NEITHER NORDIC, ITS LICENSORS OR AFFILIATES NOR THE COPYRIGHT HOLDERS MAKE ANY REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR THAT THE SDK WILL NOT INFRINGE ANY THIRD PARTY PATENTS, COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS. THERE IS NO WARRANTY BY NORDIC OR BY ANY OTHER PARTY THAT THE FUNCTIONS CONTAINED IN THE SDK WILL MEET THE REQUIREMENTS OF LICENSEE OR THAT THE OPERATION OF THE SDK WILL BE UNINTERRUPTED OR ERROR-FREE. LICENSEE ASSUMES ALL RESPONSIBILITY AND RISK FOR THE SELECTION OF THE SDK TO ACHIEVE LICENSEE’S INTENDED RESULTS AND FOR THE INSTALLATION, USE AND RESULTS OBTAINED FROM IT. 
+
+8.	No Support
+Nordic is not obligated to furnish or make available to Licensee any further information, software, technical information, know-how, show-how, bug-fixes or support. Nordic reserves the right to make changes to the SDK without further notice.
+
+9.	Limitation of Liability
+In no event shall Nordic, its employees or suppliers or affiliates be liable for any lost profits, revenue, sales, data or costs of procurement of substitute goods or services, property damage, personal injury, interruption of business, loss of business information or for any special, direct, indirect, incidental, economic,  punitive, special or consequential damages, however caused and whether arising under contract, tort, negligence, or other theory of liability arising out of the use of or inability to use the SDK, even if Nordic or its employees or suppliers or affiliates are advised of the possibility of such damages. Because some countries/states/ jurisdictions do not allow the exclusion or limitation of liability, but may allow liability to be limited, in such cases, Nordic, its employees or licensors or affiliates’ liability shall be limited to USD 50. 
+
+10.	Breach of Contract
+Upon a breach of contract by the Licensee, Nordic is entitled to damages in respect of any direct loss which can be reasonably attributed to the breach by the Licensee. If the Licensee has acted with gross negligence or willful misconduct, the Licensee shall cover both direct and indirect costs for Nordic.
+
+11.	Indemnity
+
+Licensee undertakes to indemnify, hold harmless and defend Nordic and its directors, officers, affiliates, shareholders, employees and agents from and against any claims or lawsuits, including attorney's fees, that arise or result of the Licensee’s execution of the License and which is not due to causes for which Nordic is responsible.
+
+12.	Governing Law
+This Agreement shall be construed according to the laws of Norway, and hereby submits to the exclusive jurisdiction of the Oslo tingrett.
+
+13.	Assignment
+Licensee shall not assign this Agreement or any rights or obligations hereunder without the prior written consent of Nordic.
+
+14.	Termination
+Without prejudice to any other rights, Nordic may cancel this Agreement if Licensee does not abide by the terms and conditions of this Agreement. Upon termination Licensee must promptly cease the use of the License and destroy all copies of the Licensed Technology and any other material provided by Nordic or its affiliate, or produced by the Licensee in connection with the Agreement or the Licensed Technology.
+
+
+License #2
+
+This software is subject to the ANT+ Shared Source License
+www.thisisant.com/swlicenses
+Copyright (c) Dynastream Innovations, Inc. 2015
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or
+without modification, are permitted provided that the following
+conditions are met:
+
+   1) Redistributions of source code must retain the above
+      copyright notice,this list of conditions and the following
+      disclaimer.
+
+   2) Redistributions in binary form must reproduce the above
+      copyright notice, this list of conditions and the following
+      disclaimer in the documentation and/or other materials
+      provided with the distribution.
+
+   3) Neither the name of Dynastream nor the names of its
+      contributors may be used to endorse or promote products
+      derived from this software without specific prior
+      written permission.
+
+The following actions are prohibited:
+
+   1) Redistribution of source code containing the ANT+ Network
+      Key. The ANT+ Network Key is available to ANT+ Adopters.
+      Please refer to http://thisisant.com to become an ANT+
+      Adopter and access the key. 
+
+   2) Reverse engineering, decompilation, and/or disassembly of
+      software provided in binary form under this license.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND
+CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES,
+INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE HEREBY
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR
+CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES(INCLUDING, 
+BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR 
+SERVICES; DAMAGE TO ANY DEVICE, LOSS OF USE, DATA, OR 
+PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN 
+ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED 
+OF THE POSSIBILITY OF SUCH DAMAGE. SOME STATES DO NOT ALLOW 
+THE EXCLUSION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE
+ABOVE LIMITATIONS MAY NOT APPLY TO YOU.
+
+License #3
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions.
+
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
+
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner that is granting the License.
+
+      "Legal Entity" shall mean the union of the acting entity and all
+      other entities that control, are controlled by, or are under common
+      control with that entity. For the purposes of this definition,
+      "control" means (i) the power, direct or indirect, to cause the
+      direction or management of such entity, whether by contract or
+      otherwise, or (ii) ownership of fifty percent (50%) or more of the
+      outstanding shares, or (iii) beneficial ownership of such entity.
+
+      "You" (or "Your") shall mean an individual or Legal Entity
+      exercising permissions granted by this License.
+
+      "Source" form shall mean the preferred form for making modifications,
+      including but not limited to software source code, documentation
+      source, and configuration files.
+
+      "Object" form shall mean any form resulting from mechanical
+      transformation or translation of a Source form, including but
+      not limited to compiled object code, generated documentation,
+      and conversions to other media types.
+
+      "Work" shall mean the work of authorship, whether in Source or
+      Object form, made available under the License, as indicated by a
+      copyright notice that is included in or attached to the work
+      (an example is provided in the Appendix below).
+
+      "Derivative Works" shall mean any work, whether in Source or Object
+      form, that is based on (or derived from) the Work and for which the
+      editorial revisions, annotations, elaborations, or other modifications
+      represent, as a whole, an original work of authorship. For the purposes
+      of this License, Derivative Works shall not include works that remain
+      separable from, or merely link (or bind by name) to the interfaces of,
+      the Work and Derivative Works thereof.
+
+      "Contribution" shall mean any work of authorship, including
+      the original version of the Work and any modifications or additions
+      to that Work or Derivative Works thereof, that is intentionally
+      submitted to Licensor for inclusion in the Work by the copyright owner
+      or by an individual or Legal Entity authorized to submit on behalf of
+      the copyright owner. For the purposes of this definition, "submitted"
+      means any form of electronic, verbal, or written communication sent
+      to the Licensor or its representatives, including but not limited to
+      communication on electronic mailing lists, source code control systems,
+      and issue tracking systems that are managed by, or on behalf of, the
+      Licensor for the purpose of discussing and improving the Work, but
+      excluding communication that is conspicuously marked or otherwise
+      designated in writing by the copyright owner as "Not a Contribution."
+
+      "Contributor" shall mean Licensor and any individual or Legal Entity
+      on behalf of whom a Contribution has been received by Licensor and
+      subsequently incorporated within the Work.
+
+   2. Grant of Copyright License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      copyright license to reproduce, prepare Derivative Works of,
+      publicly display, publicly perform, sublicense, and distribute the
+      Work and such Derivative Works in Source or Object form.
+
+   3. Grant of Patent License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      (except as stated in this section) patent license to make, have made,
+      use, offer to sell, sell, import, and otherwise transfer the Work,
+      where such license applies only to those patent claims licensable
+      by such Contributor that are necessarily infringed by their
+      Contribution(s) alone or by combination of their Contribution(s)
+      with the Work to which such Contribution(s) was submitted. If You
+      institute patent litigation against any entity (including a
+      cross-claim or counterclaim in a lawsuit) alleging that the Work
+      or a Contribution incorporated within the Work constitutes direct
+      or contributory patent infringement, then any patent licenses
+      granted to You under this License for that Work shall terminate
+      as of the date such litigation is filed.
+
+   4. Redistribution. You may reproduce and distribute copies of the
+      Work or Derivative Works thereof in any medium, with or without
+      modifications, and in Source or Object form, provided that You
+      meet the following conditions:
+
+      (a) You must give any other recipients of the Work or
+          Derivative Works a copy of this License; and
+
+      (b) You must cause any modified files to carry prominent notices
+          stating that You changed the files; and
+
+      (c) You must retain, in the Source form of any Derivative Works
+          that You distribute, all copyright, patent, trademark, and
+          attribution notices from the Source form of the Work,
+          excluding those notices that do not pertain to any part of
+          the Derivative Works; and
+
+      (d) If the Work includes a "NOTICE" text file as part of its
+          distribution, then any Derivative Works that You distribute must
+          include a readable copy of the attribution notices contained
+          within such NOTICE file, excluding those notices that do not
+          pertain to any part of the Derivative Works, in at least one
+          of the following places: within a NOTICE text file distributed
+          as part of the Derivative Works; within the Source form or
+          documentation, if provided along with the Derivative Works; or,
+          within a display generated by the Derivative Works, if and
+          wherever such third-party notices normally appear. The contents
+          of the NOTICE file are for informational purposes only and
+          do not modify the License. You may add Your own attribution
+          notices within Derivative Works that You distribute, alongside
+          or as an addendum to the NOTICE text from the Work, provided
+          that such additional attribution notices cannot be construed
+          as modifying the License.
+
+      You may add Your own copyright statement to Your modifications and
+      may provide additional or different license terms and conditions
+      for use, reproduction, or distribution of Your modifications, or
+      for any such Derivative Works as a whole, provided Your use,
+      reproduction, and distribution of the Work otherwise complies with
+      the conditions stated in this License.
+
+   5. Submission of Contributions. Unless You explicitly state otherwise,
+      any Contribution intentionally submitted for inclusion in the Work
+      by You to the Licensor shall be under the terms and conditions of
+      this License, without any additional terms or conditions.
+      Notwithstanding the above, nothing herein shall supersede or modify
+      the terms of any separate license agreement you may have executed
+      with Licensor regarding such Contributions.
+
+   6. Trademarks. This License does not grant permission to use the trade
+      names, trademarks, service marks, or product names of the Licensor,
+      except as required for reasonable and customary use in describing the
+      origin of the Work and reproducing the content of the NOTICE file.
+
+   7. Disclaimer of Warranty. Unless required by applicable law or
+      agreed to in writing, Licensor provides the Work (and each
+      Contributor provides its Contributions) on an "AS IS" BASIS,
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+      implied, including, without limitation, any warranties or conditions
+      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+      PARTICULAR PURPOSE. You are solely responsible for determining the
+      appropriateness of using or redistributing the Work and assume any
+      risks associated with Your exercise of permissions under this License.
+
+   8. Limitation of Liability. In no event and under no legal theory,
+      whether in tort (including negligence), contract, or otherwise,
+      unless required by applicable law (such as deliberate and grossly
+      negligent acts) or agreed to in writing, shall any Contributor be
+      liable to You for damages, including any direct, indirect, special,
+      incidental, or consequential damages of any character arising as a
+      result of this License or out of the use or inability to use the
+      Work (including but not limited to damages for loss of goodwill,
+      work stoppage, computer failure or malfunction, or any and all
+      other commercial damages or losses), even if such Contributor
+      has been advised of the possibility of such damages.
+
+   9. Accepting Warranty or Additional Liability. While redistributing
+      the Work or Derivative Works thereof, You may choose to offer,
+      and charge a fee for, acceptance of support, warranty, indemnity,
+      or other liability obligations and/or rights consistent with this
+      License. However, in accepting such obligations, You may act only
+      on Your own behalf and on Your sole responsibility, not on behalf
+      of any other Contributor, and only if You agree to indemnify,
+      defend, and hold each Contributor harmless for any liability
+      incurred by, or claims asserted against, such Contributor by reason
+      of your accepting any such warranty or additional liability.
+      
+      END OF TERMS AND CONDITIONS
+
+    Copyright 2021 Superlative Semiconductor LLC
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
