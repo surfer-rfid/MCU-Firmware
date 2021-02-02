@@ -3,7 +3,9 @@ License #1 applies to components of the Nordic Semiconductor SDK, except i) file
 License #1 applies to files containing Nordic Semiconductor copyright notices.
 License #2 applies only to files including Dynastream copyright notices. 
 All must be read and accepted before proceeding.
-Licnese #3 applies only to files containing Superlative Semiconductor copyright notices.
+License #3 applies only to files containing Superlative Semiconductor copyright notices.
+
+Note: Superlative Semiconductor LLC obtained explicit permission to re-release Nordic Semiconductor SDK v8.0 code notwithstanding Clause 4 of License #1.
 
 License #1
 
